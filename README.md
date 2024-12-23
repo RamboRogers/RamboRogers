@@ -12,4 +12,4 @@ Hardware and software hacker, and technology enthusiast.
 - 📫 How to reach me: matt@matthewrogers.org
 - ⚡ Fun fact: I was once a Nuclear Cyber Security Engineer!
 
-![logo](https://github.com/RamboRogers/flux-gui/raw/master/ramborogers.png)
+![logo](https://github.com/RamboRogers/netventory/raw/master/media/comechill.gif)
