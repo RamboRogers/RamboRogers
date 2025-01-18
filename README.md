@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-Hardware and software hacker, and technology enthusiast.  
+***Hardware and software hacker, technology enthusiast, and free will skeptic.***
 
-[matthewrogers.org](https://blog.matthewrogers.org/) for more details about myself.
+- 🔗 <a href="http://matthewrogers.org">matthewrogers.org</a> for more details about myself.
+- 🔭 Currently working on: Enterprise security at scale with a focus on complex system integration and encryption
+- 🌱 Learning: AI applicability and implementation for enhancing security measures
+- 👯 Looking to collaborate on: AI and security projects, particularly those involving user and access management
+- 🤔 Seeking help with: Innovative technology ideas and exploring the philosophical implications of tech
+- 💬 Ask me about: Projects like RFHunter, aistats.fyi, and the upcoming CyberPAM release (now with 62k lines of code for comprehensive access control and encryption)
 
-- 🔭 I’m currently working on enterprise security at scale
-- 🌱 I’m currently learning ai applicability and implementation for security at scale
-- 👯 I’m looking to collaborate on ai and security projects
-- 🤔 I’m looking for help with new technology ideas
-- 💬 Ask me about any of my projects like [RFHunter](https://github.com/RamboRogers/rfhunter) , [aistats.fyi](https://aistats.fyi/), [CyberPAM](https://github.com/RamboRogers/cyberpamnow)
-- 📫 How to reach me: matt@matthewrogers.org
-- ⚡ Fun fact: I was once a Nuclear Cyber Security Engineer!
+📫 How to reach me: matt@matthewrogers.org
+
+⚡ Fun fact: I once served as a Nuclear Cyber Security Engineer!
 
 ![logo](https://github.com/RamboRogers/netventory/raw/master/media/comechill.gif)
