@@ -57,5 +57,3 @@ Feel free to explore my projects, contribute, or reach out for collaboration opp
 ![logo](https://github.com/RamboRogers/netventory/raw/master/media/comechill.gif)  
 
 ---
-
-This version adds shields for certifications, roles, and project stats, making your profile visually engaging and informative! Let me know if you'd like further tweaks. 🛡️
