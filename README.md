@@ -1,7 +1,3 @@
-Here’s your updated content with a bunch of shields added to the top! These shields can represent badges, certifications, or project stats to give your profile a professional and dynamic look:
-
----
-
 # RamboRogers - Cybersecurity Innovator & Open Source Enthusiast  
 ![CISSP Certified](https://img.shields.io/badge/CISSP-Certified-blue)  ![CISO](https://img.shields.io/badge/Role-CISO-important)  ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-success)  ![Years of Experience](https://img.shields.io/badge/Experience-15%2B%20Years-orange)  ![GitHub Stars](https://img.shields.io/github/stars/RamboRogers?label=GitHub%20Stars&style=social)  ![Projects](https://img.shields.io/badge/Projects-4%20and%20Counting-brightgreen)  ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Nuclear%20Cyber%20Security%20Engineer-ff69b4)  
 
