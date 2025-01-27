@@ -1,12 +1,12 @@
 # Cybersecurity Innovator & Open Source Enthusiast  
 ![CISSP Certified](https://img.shields.io/badge/CISSP-Certified-blue)  ![CISO](https://img.shields.io/badge/Role-CISO-important)  ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-success)  ![Years of Experience](https://img.shields.io/badge/Experience-15%2B%20Years-orange)  ![GitHub Stars](https://img.shields.io/github/stars/RamboRogers?label=GitHub%20Stars&style=social)  ![Projects](https://img.shields.io/badge/Projects-4%20and%20Counting-brightgreen)  ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Nuclear%20Cyber%20Security%20Engineer-ff69b4)  
 
----
+
 
 ## About Me  
 I am a seasoned cybersecurity professional with over 15 years of experience, including roles as a CISO and CISSP-certified expert. My passion lies in building innovative AI and Security tools and solutions that enhance security, visibility, and efficiency in IT environments. Below are some of my notable open-source projects that reflect my expertise and creativity.  
 
----
+
 
 ## Projects  
 
@@ -45,7 +45,7 @@ A Zero Trust Privileged Access Management solution for secure access to Windows,
 
 </table>
 
----
+
 
 ## Get in Touch  
 Feel free to explore my projects, contribute, or reach out for collaboration opportunities. Let’s build a more secure digital world together!  
@@ -54,6 +54,7 @@ Feel free to explore my projects, contribute, or reach out for collaboration opp
 ⚡ Fun fact: I once served as a Nuclear Cyber Security Engineer!  
 🔗 [matthewrogers.org](http://matthewrogers.org) for more details about myself.  
 
-![logo](https://github.com/RamboRogers/netventory/raw/master/media/comechill.gif)  
+<div align="center">
+<img src="https://github.com/RamboRogers/cyberpamnow/raw/master/media/ramborogers.png" width=512>
+</div>
 
----
