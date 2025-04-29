@@ -25,24 +25,35 @@ An RF Signal Scanner built using an ESP32 and AD8317 RF detector. This tool dete
 ![License](https://img.shields.io/github/license/RamboRogers/netventory)  
 A fast, beautiful network discovery tool with both terminal and web interfaces. NetVentory provides detailed device information, port scanning, and real-time monitoring—all without requiring root privileges. It’s designed to make network exploration accessible and efficient for users of all skill levels.  
 
-</td></tr><tr>
-<td>
+</td></tr><tr><td>
   
 ### [CyberDock](https://github.com/RamboRogers/cyberdock)  
 ![GitHub Stars](https://img.shields.io/github/stars/RamboRogers/cyberdock?style=social)  
 ![License](https://img.shields.io/github/license/RamboRogers/cyberdock)  
 A sleek, cyberpunk-themed Docker Registry with an integrated web interface. CyberDock combines full OCI Distribution compliance with a real-time UI for managing container images. It’s a secure, efficient, and visually stunning way to manage your Docker repositories.  
 
-</td>
-<td>
+</td><td>
   
 ### [CyberPAM](https://github.com/RamboRogers/cyberpamnow)  
 ![GitHub Stars](https://img.shields.io/github/stars/RamboRogers/cyberpamnow?style=social)  
 ![License](https://img.shields.io/github/license/RamboRogers/cyberpamnow)  
 A Zero Trust Privileged Access Management solution for secure access to Windows, UNIX systems, and web applications. CyberPAM features a beautiful dark-themed interface, enterprise-grade access control, and session monitoring capabilities. It’s designed for quick deployment and exceptional user experience.  
-</td>
-</tr>
 
+</td></tr><tr><td>
+
+### [CyberImage](https://github.com/RamboRogers/cyberimage)  
+![GitHub Stars](https://img.shields.io/github/stars/RamboRogers/cyberimage?style=social)  
+![License](https://img.shields.io/github/license/RamboRogers/cyberimage)  
+An advanced ai image generation platform with video generation support.
+
+</td><td>
+
+### [CyberAI](https://github.com/RamboRogers/cyberai)  
+![GitHub Stars](https://img.shields.io/github/stars/RamboRogers/cyberai?style=social)  
+![License](https://img.shields.io/github/license/RamboRogers/cyberai)  
+A very fast WebUI for using LLMs with multiuser support.
+
+</td></tr>
 </table>
 
 
