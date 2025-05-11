@@ -1,5 +1,5 @@
 # Cybersecurity Innovator & Open Source Enthusiast
-![CISSP Certified](https://img.shields.io/badge/CISSP-Certified-blue)  ![CTO](https://img.shields.io/badge/Role-CTO-important)  ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-success)  ![Years of Experience](https://img.shields.io/badge/Experience-15%2B%20Years-orange)  ![GitHub Stars](https://img.shields.io/github/stars/RamboRogers?label=GitHub%20Stars&style=social)  ![Projects](https://img.shields.io/badge/Projects-4%20and%20Counting-brightgreen)  ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Nuclear%20Cyber%20Security%20Engineer-ff69b4)
+![CISSP Certified](https://img.shields.io/badge/CISSP-Certified-blue)  ![CTO](https://img.shields.io/badge/Role-CTO-important)  ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-success)  ![Years of Experience](https://img.shields.io/badge/Experience-15%2B%20Years-orange)  ![GitHub Stars](https://img.shields.io/github/stars/RamboRogers?label=GitHub%20Stars&style=social)  ![Projects](https://img.shields.io/badge/Projects-8%20and%20Counting-brightgreen)  ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Nuclear%20Cyber%20Security%20Engineer-ff69b4)
 
 
 
