@@ -67,6 +67,15 @@ Make it So, an agentic AI shell system that allows you to speak to your computer
 ![License](https://img.shields.io/github/license/RamboRogers/cloudflareguacamole)
 A Docker formula for Zero Trust Cloudflare Access via Guacamole, providing secure remote access through Cloudflare's infrastructure with a beautiful interface.
 
+</td></tr><tr><td>
+
+### [MLX-GUI](https://github.com/RamboRogers/mlx-gui)
+![GitHub Stars](https://img.shields.io/github/stars/RamboRogers/mlx-gui?style=social)
+![License](https://img.shields.io/github/license/RamboRogers/mlx-gui)
+A revolutionary native Apple Silicon MLX inference server with stunning GUI. Features dynamic model loading, OpenAI API compatibility, HuggingFace integration, audio transcription, and a beautiful macOS system tray app. Turn your Mac into a powerful multiuser AI inference server with zero configuration required.
+
+</td><td>
+
 </td></tr>
 </table>
 
