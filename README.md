@@ -76,6 +76,11 @@ A revolutionary native Apple Silicon MLX inference server with stunning GUI. Fea
 
 </td><td>
 
+### [MLX-Transcribe](https://github.com/RamboRogers/mlx-transcribe)
+![GitHub Stars](https://img.shields.io/github/stars/RamboRogers/mlx-transcribe?style=social)
+![License](https://img.shields.io/github/license/RamboRogers/mlx-transcribe)
+A Private AI MLX Transcription Apple App built for Apple Silicon Macs. Features local, private speech-to-text transcription using advanced MLX models. Perfect for privacy-conscious users who need accurate transcription without sending data to external servers.
+
 </td></tr>
 </table>
 
