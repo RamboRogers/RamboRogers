@@ -63,7 +63,6 @@ Deadman's Internet is a self-healing internet switch designed to ensure continuo
 
 ### [CyberPAM](https://github.com/RamboRogers/cyberpamnow)
 ![GitHub Stars](https://img.shields.io/github/stars/RamboRogers/cyberpamnow?style=social)
-![License](https://img.shields.io/github/license/RamboRogers/cyberpamnow)
 CyberPAM is a comprehensive Zero Trust Privileged Access Management solution designed for secure access to Windows, UNIX systems, and web applications.
 
 </td><td>
