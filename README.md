@@ -4,6 +4,8 @@
 ## About Me
 I'm Matthew Rogers — Field CTO for AI and Security at VAST Data, where I pioneer AI-driven video intelligence solutions including the technology behind VAST's NHL partnership for real-time game analytics. I hold a patent for Agentic Video Search and specialize in AI vectorization of video and text with intelligent agents, transforming petabytes of unstructured data into searchable, actionable intelligence. A CISSP-certified cybersecurity veteran with 18+ years spanning nuclear facilities to Fortune 500 enterprises, I bridge cutting-edge AI innovation with enterprise security requirements.
 
+I have written demos presented at various conferences and events, including a few on stage by Jensen Huang, CEO of NVIDIA.
+
 ## Projects
 
 <table>
