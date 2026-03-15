@@ -58,7 +58,7 @@ Cyber-Inference is a web GUI and API server for running local inference engines 
 </td><td>
 
 ### [Dead Mans Internet](https://github.com/RamboRogers/deadmansinternet)
-![GitHub Stars](https://img.shields.io/github/stars/deadmansinternet?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/RamboRogers/deadmansinternet?style=social)
 Deadman's Internet is a self-healing internet switch designed to ensure continuous connectivity by automatically resetting your network devices when a connection failure is detected.
 
 </td></tr><tr><td>
